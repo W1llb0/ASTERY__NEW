@@ -2,8 +2,8 @@
 const swiper = new Swiper('#swiper-image', {
     loop: true,
     navigation: {
-        nextEl: '.olives-slider-button-prev',
-        prevEl: '.olives-slider-button-next'
+        nextEl: '.olives-slider-button-next',
+        prevEl: '.olives-slider-button-prev'
     },
     pagination: {
         el: '.slider-pagination',

@@ -1004,6 +1004,7 @@ header{
 .footer-item-top-item2__title{
     color: #CDEFF9;
 }
+
 .footer-item-top-item3{
     display: flex;
     align-items: start;
@@ -1104,6 +1105,7 @@ header{
 }
 .footer-item-top-item5__call-back-button:hover{
     background: #2EE59D;
+    color: #FFFFFF;
     box-shadow: 0 15px 20px rgba(46, 229, 157, .4);
     transform: translateY(-7px);
 }
